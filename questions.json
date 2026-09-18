@@ -1,0 +1,117 @@
+[
+  {
+    "question": "What is my favorite sport to play?",
+    "options": ["Football", "Basketball", "Tennis", "Badminton"],
+    "answer": "B"
+  },
+  {
+    "question": "What is my favorite video game?",
+    "options": ["Roblox", "Minecraft", "Terraria", "Fortnite"],
+    "answer": "B"
+  },
+  {
+    "question": "What is my dream career?",
+    "options": ["Software Developer", "Computer Engineer", "Data Scientist", "Architect"],
+    "answer": "B"
+  },
+  {
+    "question": "Which school was my last school?",
+    "options": ["Vietnam Australia International School", "British International School", "International School Ho Chi Minh City", "Saigon South International School"],
+    "answer": "A"
+  },
+  {
+    "question": "Which musical instrument can I play?",
+    "options": ["Guitar", "Drums", "Piano", "Violin"],
+    "answer": "C"
+  },
+  {
+    "question": "What is my weakness?",
+    "options": ["I get tired easily", "I will never tell you", "I overthink things", "I have no patience"],
+    "answer": "B"
+  },
+  {
+    "question": "What is my favorite sport to watch?",
+    "options": ["Basketball", "Football", "Formula 1", "Tennis"],
+    "answer": "C"
+  },
+  {
+    "question": "What is my dream university?",
+    "options": ["MIT", "Stanford", "Georgia Tech", "UC Berkeley"],
+    "answer": "C"
+  },
+  {
+    "question": "How many siblings do I have, and are they older or younger?",
+    "options": ["2 siblings (all older)", "3 siblings (2 sisters, 1 brother - all younger)", "3 siblings (2 brothers, 1 sister - all younger)", "1 sibling (younger sister)"],
+    "answer": "B"
+  },
+  {
+    "question": "Is it true that I am homeless?",
+    "options": ["Yes, I am homeless", "No, I am not homeless", "Sometimes", "Not specified"],
+    "answer": "B"
+  },
+  {
+    "question": "What is my absolute biggest personal strength?",
+    "options": ["Public Speaking", "Coding & anything with computers", "Graphic Design", "Cooking"],
+    "answer": "B"
+  },
+  {
+    "question": "What psychological state do I enter when I get totally lost in coding or sports?",
+    "options": ["Trance", "Flow", "Zone Out", "Hyperdrive"],
+    "answer": "B"
+  },
+  {
+    "question": "Which Big Five personality framework (OCEAN) trait measures organization and discipline?",
+    "options": ["Openness", "Extraversion", "Conscientiousness", "Neuroticism"],
+    "answer": "C"
+  },
+  {
+    "question": "Which school learning experiences do I enjoy the most?",
+    "options": ["Robotics competitions & Project-based learning", "Solo essay writing", "Standardized tests", "Historical lectures"],
+    "answer": "A"
+  },
+  {
+    "question": "According to research on turning hobbies into businesses, what percentage report higher job satisfaction?",
+    "options": ["28%", "50%", "60%", "86%"],
+    "answer": "D"
+  },
+  {
+    "question": "In the Big Five Personality Model, what does the letter 'E' stand for?",
+    "options": ["Empathy", "Extraversion", "Emotional Stability", "Efficiency"],
+    "answer": "B"
+  },
+  {
+    "question": "Which Big Five trait reflects creativity, curiosity, and a preference for novelty?",
+    "options": ["Agreeableness", "Conscientiousness", "Openness", "Neuroticism"],
+    "answer": "C"
+  },
+  {
+    "question": "According to the worksheet on hobbies, what is one major psychological benefit of a hobby?",
+    "options": ["It declutters your mind and lowers stress", "It guarantees financial independence", "It eliminates sleep", "It replaces academic learning"],
+    "answer": "A"
+  },
+  {
+    "question": "What percentage of British adults have considered turning a hobby into a business?",
+    "options": ["10%", "28%", "50%", "75%"],
+    "answer": "B"
+  },
+  {
+    "question": "What percentage of hobby-based startups don't earn enough to do it full-time?",
+    "options": ["40%", "60%", "86%", "100%"],
+    "answer": "B"
+  },
+  {
+    "question": "Which Big Five trait measures how trusting, empathetic, and cooperative a person is?",
+    "options": ["Agreeableness", "Extraversion", "Neuroticism", "Conscientiousness"],
+    "answer": "A"
+  },
+  {
+    "question": "In the 'Strengths' acronym from your worksheet, what does the letter 'G' stand for?",
+    "options": ["Get results fast", "Grow through mistakes", "Give up when it's hard", "Gain popularity"],
+    "answer": "B"
+  },
+  {
+    "question": "Which category of strengths includes traits like being curious, analytical, and logical?",
+    "options": ["Social & Emotional", "Thinking & Learning", "Work Habits", "Resilience"],
+    "answer": "B"
+  }
+]
