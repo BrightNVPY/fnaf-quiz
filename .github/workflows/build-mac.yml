@@ -1,0 +1,19 @@
+name: Build Mac App
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pygame pyinstaller
+      - run: pyinstaller --onefile --windowed --add-data "questions.json:." --add-data "img:img" --add-data "sound:sound" --name FNAFQuiz fnaftest.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: FNAFQuiz-mac
+          path: dist/FNAFQuiz
